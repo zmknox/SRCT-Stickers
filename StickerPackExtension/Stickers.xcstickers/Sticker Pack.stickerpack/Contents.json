@@ -1,6 +1,9 @@
 {
   "stickers" : [
     {
+      "filename" : "rect-sticker.sticker"
+    },
+    {
       "filename" : "sticker.sticker"
     }
   ],
