@@ -106,10 +106,12 @@
 				TargetAttributes = {
 					92F417911D90A3110039C560 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = N5GM564QWL;
 						ProvisioningStyle = Automatic;
 					};
 					92F417951D90A3120039C560 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = N5GM564QWL;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -252,6 +254,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = N5GM564QWL;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "io.srct.SRCT-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -263,6 +266,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = N5GM564QWL;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "io.srct.SRCT-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = N5GM564QWL;
 				INFOPLIST_FILE = "SRCT Stickers/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "io.srct.SRCT-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +290,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = N5GM564QWL;
 				INFOPLIST_FILE = "SRCT Stickers/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "io.srct.SRCT-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -311,6 +317,7 @@
 				92F417A11D90A3120039C560 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		92F417A31D90A3120039C560 /* Build configuration list for PBXNativeTarget "SRCT Stickers" */ = {
 			isa = XCConfigurationList;
@@ -319,6 +326,7 @@
 				92F417A51D90A3120039C560 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
